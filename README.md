@@ -1,7 +1,7 @@
 # Olivia Campos
 
 👋🏻 Hello World!</br>
-💻 Atualmente estudando Front End & PHP</br>
+💻 Atualmente estudando Front End </br>
 🎓 Sistemas de Informação - UFLA </br>
 
 ## Contato
